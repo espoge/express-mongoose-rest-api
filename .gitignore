@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+
+#database connection
+.env
+#
+package-lock.json
